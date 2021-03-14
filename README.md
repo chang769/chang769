@@ -12,21 +12,19 @@ During my Ph.D. study, I have been involved in multiple projects of different to
 - AMCA COVID White Paper on Un-ducted Fans: Air curtains, ceiling and circulating fans. [Link>>](https://www.amca.org/assets/resources/public/assets/uploads/FINAL--_AMCA_Annual_Meeting_-_COVID_Session.pdf)
 - Estimating and mitigating SARS-CoV-2 exposure risk in mechanically ventilated space.
 
-### Hi there 👋
-- 🔭 I’m currently working on:
-- Geo-spatial data analysis | Weather Research and Forecast (WRF) | Building energy and thermal analysis | Climate data down-scaling | Computational Fluid dynamics
-- 🌱 I’m currently learning:
--  website development | data science | software development
-
 - 📫 How to reach me: www.changshu.fun
 
+Geo-spatial data analysis | Weather Research and Forecast (WRF) | Building energy and thermal analysis | Climate data down-scaling | Computational Fluid dynamics
+Website development | Data science | Software development
+
+
 ![Montreal 2018 summer air temperature](https://www.changshu.fun/images/T_Montrealfast.gif)
-![Airflow pattern of a neighbourhood community in Langfang](https://www.changshu.fun/images/airflowcommunity.gif)
-![Smoke spread in an educational building](https://changshu.fun/images/image30.gif)
 <!--
 **chang769/chang769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Airflow pattern of a neighbourhood community in Langfang](https://www.changshu.fun/images/airflowcommunity.gif)
+![Smoke spread in an educational building](https://changshu.fun/images/image30.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
