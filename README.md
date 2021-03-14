@@ -12,12 +12,11 @@ During my Ph.D. study, I have been involved in multiple projects of different to
 * AMCA COVID White Paper on Un-ducted Fans: Air curtains, ceiling and circulating fans. [Link>>](https://www.amca.org/assets/resources/public/assets/uploads/FINAL--_AMCA_Annual_Meeting_-_COVID_Session.pdf)
 * Estimating and mitigating SARS-CoV-2 exposure risk in mechanically ventilated space.
 
-📫 Reach me: www.changshu.fun
-🔭 Geo-spatial data analysis | Weather Research and Forecast (WRF) | Building energy and thermal analysis | Climate data down-scaling | Computational Fluid Dynamics (CFD)
-🌱 Website development | Data science | Software development
+- 📫 Reach me: www.changshu.fun
+- 🔭 Geo-spatial data analysis | Weather Research and Forecast (WRF) | Building energy and thermal analysis | Climate data down-scaling | Computational Fluid Dynamics (CFD)
+- 🌱 Website development | Data science | Software development
 
-
-![Montreal 2018 summer air temperature](https://www.changshu.fun/images/T_Montrealfast.gif)
+![Montreal summer](https://www.changshu.fun/images/T_Montrealfast.gif)
 <!--
 **chang769/chang769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
