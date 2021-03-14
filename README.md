@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
-- Geospatial data analysis | Weather Research and Forecase (WRF) | Building enery and thermal analysis | Climate data downscaling | Computational Fluid dynamics
+- Geo-spatial data analysis | Weather Research and Forecast (WRF) | Building energy and thermal analysis | Climate data down-scaling | Computational Fluid dynamics
 - 🌱 I’m currently learning:
 -  website development | data science | software development
 
