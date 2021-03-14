@@ -20,6 +20,9 @@ During my Ph.D. study, I have been involved in multiple projects of different to
 
 - 📫 How to reach me: www.changshu.fun
 
+![Montreal 2018 summer air temperature](https://www.changshu.fun/images/T_Montrealfast.gif)
+![Airflow pattern of a neighbourhood community in Langfang](https://www.changshu.fun/images/airflowcommunity.gif)
+![Smoke spread in an educational building](https://changshu.fun/images/image30.gif)
 <!--
 **chang769/chang769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
