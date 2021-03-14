@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on:
+- Geospatial data analysis | Weather Research and Forecase (WRF) | Building enery and thermal analysis | Climate data downscaling | Computational Fluid dynamics
+- 🌱 I’m currently learning:
+-  website development | data science | software development
+
+- 📫 How to reach me: www.changshu.fun
 
 <!--
 **chang769/chang769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
