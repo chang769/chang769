@@ -1,4 +1,4 @@
-## [Chang Shu](https://www.changshu.fun/)
+## [Chang Shu 舒畅](https://www.changshu.fun/)
 I am a Ph.D. student (in the 4th year) in Building Engineering at [Concordia University](https://www.concordia.ca/) supervised by [Dr. Leon Wang](https://users.encs.concordia.ca/~leonwang/moodle/), currently working with [Dr. Abhishek Gaur](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/abhishek-gaur) and [Dr. Michael Lacasse](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/michael-lacasse) at the [Construction Research Center](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre) of [National Research Council Canada (NRC)](https://nrc.canada.ca/en) in Ottawa.
 During my Ph.D. study, I have been involved in multiple projects of different topics:
 
