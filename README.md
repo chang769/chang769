@@ -1,5 +1,8 @@
 ## [Chang Shu 舒畅](https://www.changshu.fun/)
-I am a Ph.D. student (in the 4th year) in Building Engineering at [Concordia University](https://www.concordia.ca/) supervised by [Dr. Leon Wang](https://users.encs.concordia.ca/~leonwang/moodle/), currently working with [Dr. Abhishek Gaur](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/abhishek-gaur) and [Dr. Michael Lacasse](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/michael-lacasse) at the [Construction Research Center](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre) of [National Research Council Canada (NRC)](https://nrc.canada.ca/en) in Ottawa.
+I am a Research Officer with the Ventilation and Indoor Air Quality (VIAQ) group of the Construction Research Center at the National Research Council Canada (NRCC) in Ottawa. My research is centred on enhancing building resilience against climate change, in line with the Climate Resilient Built Environment (CRBE) initiative at NRCC. Specifically, I focus on energy-efficient and carbon-neutral solutions to alleviate the repercussions of heatwaves and wildfire smoke on indoor environment quality (IEQ) and occupant health. Furthermore, my endeavours also span to regulate indoor airborne transmission and enhance protection against respiratory infections, especially in the context of COVID-19 and the COVID-19, Ventilation for Control of Respiratory Infections, and Healthy Built Environment initiative at NRCC. Passionate about innovation, I actively seek collaborations with industry stakeholders, universities, and research institutions to unearth and implement pioneering technologies that address both the pressing and potential environmental challenges our buildings face today and in the future.
+
+I earned my Ph.D. in Building Engineering from Concordia University, Montreal, and was privileged to be part of the Centre for Zero Energy Building Studies (CZEBS). During my doctoral studies, I also joined the Facade System and Products (FSP) group of NRCC, supporting projects under the Climate-Resilient Buildings and Core Public Infrastructure initiative.
+
 During my Ph.D. study, I have been involved in multiple projects of different topics:
 
 * Air curtain design and operation opitmization. [Link>>](https://doi.org/10.1016/j.buildenv.2019.106582), [Link>>](https://doi.org/10.1016/j.jweia.2020.104265), [Link>>](https://users.encs.concordia.ca/~leonwang/moodle/mod/book/view.php?id=15&chapterid=12)
@@ -14,16 +17,11 @@ During my Ph.D. study, I have been involved in multiple projects of different to
 
 - 📫 Reach me: www.changshu.fun
 - 🔭 Geo-spatial data analysis | Weather Research and Forecast (WRF) | Building energy and thermal analysis | Climate data down-scaling | Computational Fluid Dynamics (CFD)
-- 🌱 Website development | Data science | Software development
+- 🌱 Data science 
 
 ![Montreal summer](https://www.changshu.fun/images/T_Montrealfast.gif)
 <!--
 **chang769/chang769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![Airflow pattern of a neighbourhood community in Langfang](https://www.changshu.fun/images/airflowcommunity.gif)
-![Smoke spread in an educational building](https://changshu.fun/images/image30.gif)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
